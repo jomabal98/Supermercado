@@ -11,7 +11,7 @@ public class Caja {
 	}
 
 	public int getDinero() {
-		return dinero;
+		return dinero
 	}
 	public void setDinero(int dinero) {
 		this.dinero = dinero;
